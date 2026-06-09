@@ -1,8 +1,6 @@
 # Poisoning-Assisted Membership Inference in Federated Learning
 
-## Quick Start
-
-### python FL/main.py
+python FL/main.py
 
 If you find this code or our paper useful for your research, please cite:
 ```bibtex
