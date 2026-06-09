@@ -1,4 +1,5 @@
 # Poisoning-Assisted Membership Inference in Federated Learning
+## IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 python FL/main.py
 
