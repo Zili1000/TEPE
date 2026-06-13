@@ -21,6 +21,8 @@ Install other requirements:
 pip install numpy scikit-learn matplotlib xgboost os random copy 
 ```
 
+
+## Run
 ```shell
 python FL/main.py
 ```
